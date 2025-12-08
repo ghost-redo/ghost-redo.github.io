@@ -36,7 +36,7 @@ MAU 450만 C2C 중고거래 플랫폼 기업
   - 파이프라인 구축 및 환경 세팅
   - 도메인 단위 공통 모듈 개발
   - API / 인증 로직 공통화
-- 중고나라 웹 **프론트엔드 개선**
+- 중고나라 웹 프론트엔드 개선
   - 배포 환경 최적화
   - 웹뷰 크로스 플랫폼 호환성 및 접근성 개선
 
@@ -179,24 +179,24 @@ AI 검색엔진 SDK를 기획부터 설계·개발까지 전담했습니다. 그
 
 ## Skill
 
-HTML / CSS / JavaScript
+**HTML / CSS / JavaScript**
 
 - ES6+ 문법을 적극 사용합니다.
 - 실무에서 웹뷰를 개발하며 Android와 iOS 환경에 대응한 CSS 퍼블리싱을 수행한 경험이 있습니다.
 
-React / Next
+**React / Next**
 
 - 실무에서 다양한 규모의 웹 애플리케이션을 설계 및 개발한 경험이 있습니다.
 - 실무에서 Next.js의 Page Router와 App Router를 모두 활용하여 서비스를 구축하고 유지보수한 경험이 있습니다.
 - 클라이언트 사이드 렌더링(CSR)과 서버 사이드 렌더링(SSR)의 차이점과 장단점을 이해하고, 실무에서 상황에 맞게 적절히 사용하였습니다.
 - React hook을 이용해 공통 비즈니스 로직을 적절히 모듈화해 사용할 수 있습니다.
 
-TypeScript
+**TypeScript**
 
 - TypeScript를 사용해 컴파일 타임에서 에러를 방지하고 직관적인 코드를 구성하여 React / Next 프로젝트를 개발할 수 있습니다.
 - 필요에 따라 타입 추론, 제네릭 등의 개념을 활용할 수 있으며, 커스텀 타입 가드를 이용한 Narrowing을 할 수 있습니다.
 
-React Query
+**React Query**
 
 - query key를 이용해 어떻게 캐시를 관리하는지 이해하고 있습니다.
 - staleTime과 cacheTime을 활용한 stale-while-revalidate 전략을 이해하고 있습니다.
