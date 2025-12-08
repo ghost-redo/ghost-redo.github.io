@@ -110,20 +110,6 @@ blockquote {
   }
 }
 
-@media print {
-  html {
-    font-size: 14px;
-  }
-
-  body {
-    padding: 0 4rem;
-  }
-
-  footer {
-    display: none;
-  }
-}
-
 img {
   & + em {
     display: block;

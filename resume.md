@@ -5,9 +5,8 @@ title: Resume
 
 # 홍승연
 
-> 전화번호: 010-9606-1583
-
-> [GitHub](https://github.com/dev-redo/) / [Blog](https://medium.com/@hong009319) / [Email](mailto:devredo98@gmail.com)
+> 010-9606-1583 | [to Email](mailto:devredo98@gmail.com)  
+> [GitHub](https://github.com/dev-redo/) | [Blog](https://medium.com/@hong009319)
 
 <br>
 
@@ -55,7 +54,7 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
   - 개인화 추천 상품 위젯 SDK 개발
 - 디자인 시스템 : 스토리북 빌드 속도 개선
 
-## 실무 경험
+## 주요 프로젝트
 
 ## 중고나라
 
