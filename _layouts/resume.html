@@ -2,17 +2,16 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
-    <title><%- title %></title>
+    <title>{{ page.title | default: "Resume" }}</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <meta name="title" content="<%- title %>" />
+    <meta name="title" content="{{ page.title }}" />
     <meta name="author" content="dev-redo" />
 
-    <meta property="og:title" content="<%- title %>" />
+    <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:image:alt" content="<%- name %>" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -24,16 +23,16 @@
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
-    <link rel="preload" href="./styles/resume.css" as="style" />
-    <link rel="stylesheet" href="./styles/resume.css" />
+    <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon" />
+    <link rel="stylesheet" href="{{ '/assets/reset.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/resume.css' | relative_url }}" />
   </head>
 
   <body>
-    <div id="top"></div>
-
     <main>
-      <article class="resume-content"><%- content %></article>
+      <article class="resume-content">
+        {{ content }}
+      </article>
     </main>
   </body>
 </html>
