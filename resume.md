@@ -1,12 +1,11 @@
 ---
 layout: resume
-title: Resume
+title: 홍승연 Resume
 ---
 
 # 홍승연
 
-> 010-9606-1583 | [to Email](mailto:devredo98@gmail.com)  
-> [GitHub](https://github.com/dev-redo/) | [Blog](https://medium.com/@hong009319)
+> 010-9606-1583 | [to Email](mailto:devredo98@gmail.com) | [GitHub](https://github.com/dev-redo/) | [Blog](https://medium.com/@hong009319)
 
 <br>
 
