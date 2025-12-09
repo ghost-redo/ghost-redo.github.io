@@ -205,7 +205,7 @@ AI 검색엔진 SDK를 기획부터 설계·개발까지 전담했습니다. 그
 - query key를 이용해 어떻게 캐시를 관리하는지 이해하고 있습니다.
 - staleTime과 cacheTime을 활용한 stale-while-revalidate 전략을 이해하고 있습니다.
 
---
+<br>
 
 ## Education
 
