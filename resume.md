@@ -54,7 +54,9 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
   - 개인화 추천 상품 위젯 SDK 개발
 - 디자인 시스템 : 스토리북 빌드 속도 개선
 
-## 주요 프로젝트
+--
+
+<br>
 
 ## 중고나라
 
@@ -101,7 +103,7 @@ _> Docker, Turborepo, React, TypeScript_
   - OS별 웹뷰 이슈(화면 높이, 가상 키보드 등) 실기기 검증으로 크로스 플랫폼 호환성 확보
 - **이미지 캐시 및 최적화**
 
----
+--
 
 ## 코르카
 
@@ -177,6 +179,10 @@ AI 검색엔진 SDK를 기획부터 설계·개발까지 전담했습니다. 그
 
 블로그: [Webpack → Vite: 스토리북의 번들러 마이그레이션](https://medium.com/@hong009319/0100b3ab0725)
 
+--
+
+<br>
+
 ## Skill
 
 **HTML / CSS / JavaScript**
@@ -200,6 +206,8 @@ AI 검색엔진 SDK를 기획부터 설계·개발까지 전담했습니다. 그
 
 - query key를 이용해 어떻게 캐시를 관리하는지 이해하고 있습니다.
 - staleTime과 cacheTime을 활용한 stale-while-revalidate 전략을 이해하고 있습니다.
+
+--
 
 ## Education
 
