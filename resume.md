@@ -90,7 +90,7 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
 ### 중고나라 웹 **프론트엔드 개선** **(2025/Q4)**
 
-> Docker, Turborepo, React, TypeScript_
+> _Docker, Turborepo, React, TypeScript_
 
 - **배포 환경 구축**
   - **문제 정의**: 모노레포 전환 후 도커 이미지 빌드 및 배포 시간 증가로 인한 개발 생산성 저하
