@@ -71,7 +71,7 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
 **주요 업무**
 
-- **배포 환경 구축**
+- **배포 파이프라인 구축**
   - Turborepo를 활용한 Bitbucket Pipelines CI/CD 파이프라인 구축
   - CSR 앱과 SSR 앱을 각각 S3+CloudFront, Docker+EKS 환경에 배포하게끔 설정
 - **공통 모듈 개발**
