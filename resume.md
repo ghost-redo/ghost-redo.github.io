@@ -179,10 +179,6 @@ C2C 중고거래 플랫폼 중고나라의 웹/웹뷰를 개발 및 유지보수
 
 ## Skill
 
-<div style="display: flex; gap: 40px;">
-
-<div style="flex: 1;">
-
 ### HTML / CSS / JavaScript
 - ES6+ 문법을 적극 사용합니다.
 - 실무에서 웹뷰를 개발하며 Android와 iOS 환경에 대응한 CSS 퍼블리싱을 수행한 경험이 있습니다.
@@ -190,10 +186,6 @@ C2C 중고거래 플랫폼 중고나라의 웹/웹뷰를 개발 및 유지보수
 ### TypeScript
 - TypeScript를 사용해 컴파일 타임에서 에러를 방지하고 직관적인 코드를 구성하여 React / Next 프로젝트를 개발할 수 있습니다.
 - 필요에 따라 타입 추론, 제네릭 등의 개념을 활용할 수 있으며, 커스텀 타입 가드를 이용한 Narrowing을 할 수 있습니다.
-
-</div>
-
-<div style="flex: 1;">
 
 ### React / Next
 - 실무에서 다양한 규모의 웹 애플리케이션을 설계 및 개발한 경험이 있습니다.
@@ -204,10 +196,6 @@ C2C 중고거래 플랫폼 중고나라의 웹/웹뷰를 개발 및 유지보수
 ### React Query
 - query key를 이용해 어떻게 캐시를 관리하는지 이해하고 있습니다.
 - staleTime과 cacheTime을 활용한 stale-while-revalidate 전략을 이해하고 있습니다.
-
-</div>
-
-</div>
 
 --
 
