@@ -48,7 +48,7 @@ MAU 450만 C2C 중고거래 플랫폼 기업
   - 상품 등록/수정 기능 고도화 및 유지보수
 
 ## 코르카
-> _Next.js 15, React.js, TypeScript, Storybook_
+> _Next.js 15, React.js, TypeScript, Storybook, Vite_
 
 AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
