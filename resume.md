@@ -65,7 +65,7 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
 ## 중고나라
 
-### 중고나라 애플리케이션 모노레포 전환 **(2025/Q2)**
+### 중고나라 애플리케이션 모노레포 전환 **(2025/Q2~)**
 
 > _Next.js 15, TypeScript, Monorepo, Turborepo, Docker_
 
@@ -94,7 +94,7 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
 블로그: [웹개발팀 모노레포: 파이프라인 구축](https://teamblog.joonggonara.co.kr/c51f8783af42)
 
-### 중고나라 웹 **프론트엔드 개선** **(2025/Q4)**
+### 중고나라 웹 **프론트엔드 개선** **(2025/Q2)**
 
 > _Docker, Turborepo, React, TypeScript_
 
