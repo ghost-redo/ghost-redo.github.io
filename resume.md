@@ -26,7 +26,7 @@ DX 개선에 집중합니다. Turborepo 모노레포 전환으로 3개 서비스
 # 경력
 
 ## 중고나라
-> _Next.js 15, TypeScript, Monorepo, Turborepo, Docker_
+> _Next.js 15, React.js, TypeScript, Monorepo, Turborepo, Docker_
 
 MAU 450만 C2C 중고거래 플랫폼 기업
 
