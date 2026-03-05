@@ -39,7 +39,7 @@ MAU 450만 C2C 중고거래 플랫폼 기업
   - API / 인증 로직 공통화
   - 디자인 시스템 구축
 - 중고나라 웹 프론트엔드 개선
-  - 중고나라 웹 리뉴얼
+  - 중고나라 웹 리뉴얼 및 최적화
   - 도커 이미지 최적화
   - 웹뷰 크로스 플랫폼 호환성 및 W3C 접근성 개선
   - 셀러지원센터 대량 상품 업로드 페이지 성능 최적화
@@ -99,15 +99,15 @@ AI 기반 B2B SaaS 광고/추천 솔루션 초기 스타트업
 
 ### 중고나라 웹 **프론트엔드 개선** **(2025/Q2)**
 
-> _Docker, Turborepo, React.js, TypeScript_
+> _Next.js 15, Docker, Turborepo, React.js, TypeScript_
 
-모노레포 전환 후 증가한 도커 이미지 크기와 빌드 시간의 병목 구간을 분석·최적화하여 **빌드 시간을 약 60% 단축**했습니다. 또한 웹뷰 환경의 **크로스 플랫폼 호환성 및 접근성 문제를 개선**하여 서비스 사용성을 향상시켰습니다.
+Next.js App Router 기반 SSR 구조 개선과 Server Component(RSC) 도입으로 **웹 서버 메모리 사용량을 약 70% 절감**했습니다. 또한 리뉴얼 과정에서 발생한 **SSR OOM을 Heap Snapshot과 부하 테스트로 분석·해결**했습니다.
+모노레포 전환 이후 증가한 **Docker 빌드 병목을 분석·최적화해 빌드 시간을 약 60% 단축**했습니다.
 
-- **중고나라 웹 리뉴얼**
-  - 중고나라 디자인 리뉴얼 및 기술 스택 Next.js Page Router에서 App Router로 이관
-  - LCP 중심 성능 개선으로 Lighthouse Performance 기준 점수 78에서 93으로 향상
-  - 불필요한 SSR 구간 정리로 서버·클라이언트 CPU/메모리 사용량 절감 및 안정성 확보
-  - 리뉴얼 과정에서 발생한 SSR OOM을 Heap Snapshot·부하 테스트로 분석해 해결
+- **중고나라 웹 리뉴얼 및 최적화**
+  - Next.js Page Router → App Router 마이그레이션 및 SSR 구조 개선으로 FCP·LCP 최적화 (Lighthouse Performance 78→93점, 약 19% 향상)
+  - SSR을 Server Component(RSC) 기반 구조로 전환해 웹 서버 메모리 사용량 약 70% 감소 (500MB → 150MB)
+  - 리뉴얼 과정에서 발생한 SSR OOM을 Heap Snapshot과 부하 테스트로 분석 및 해결
 
 - **도커 이미지 최적화**
   - 문제 정의: 모노레포 전환 후 도커 이미지 파일 크기와 빌드 속도 증가로 인한 개발 생산성 저하
