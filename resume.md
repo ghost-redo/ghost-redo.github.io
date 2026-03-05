@@ -106,7 +106,7 @@ Next.js App Router 기반 SSR 구조 개선과 Server Component(RSC) 도입으�
 
 - **중고나라 웹 리뉴얼 및 최적화**
   - Next.js Page Router → App Router 마이그레이션 및 SSR 구조 개선으로 FCP·LCP 최적화 (Lighthouse Performance 78→93점, 약 19% 향상)
-  - SSR을 Server Component(RSC) 기반 구조로 전환해 웹 서버 메모리 사용량 약 70% 감소 (500MB → 150MB)
+  - Server Component(RSC) 도입으로 클라이언트 번들 크기를 줄이고, 불필요한 SSR 제거로 서버 메모리 사용량 약 70% 감소 (500MB → 150MB)
   - 리뉴얼 과정에서 발생한 SSR OOM을 Heap Snapshot과 부하 테스트로 분석 및 해결
 
 - **도커 이미지 최적화**
